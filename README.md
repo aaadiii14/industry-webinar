@@ -1,2 +1,1 @@
-# industry-webinar
-MLOpsV6
+# MLOpsV6
