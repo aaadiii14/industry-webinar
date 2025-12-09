@@ -20,12 +20,12 @@ variables:
   # DO NOT TOUCH
 
   # For pipeline reference
-  resource_group: default_resourse_group
-  aml_workspace: demo_workspace
-  application_insights: demoworkspace1997734687
-  key_vault: demoworkspace9715646723
-  container_registry: a9c528dba4cc4042a824b912e74ef850
-  storage_account: demoworkspace0813584800
+  resource_group: azure-test-int
+  aml_workspace: azure-int
+  application_insights: azureint1476157782
+  key_vault: azureint8296069636
+  container_registry: 698910f0590446db85afb7e41496fcf2
+  storage_account: azureint8124552115
   
   # # For terraform reference
   # terraform_version: 0.14.7
@@ -35,3 +35,4 @@ variables:
   # terraform_st_storage_account: st$(namespace)$(postfix)$(environment)tf
   # terraform_st_container_name: default
   # terraform_st_key: mlops-tab
+
